@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\Desktop\\Apitask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|c:\\users\\fa507xv\\desktop\\apitask\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\dtos\\admin\\cities\\citycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|c:\\users\\fa507xv\\desktop\\apitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|c:\\users\\fa507xv\\desktop\\apitask\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|c:\\users\\fa507xv\\desktop\\apitask\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\dtos\\admin\\cities\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\dtos\\admin\\countiries\\countrycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\dtos\\admin\\countiries\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A58CB9C-496A-4274-AEDC-22C3C97A75F8}|..\\Domain\\Domain.csproj|c:\\users\\fa507xv\\desktop\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A58CB9C-496A-4274-AEDC-22C3C97A75F8}|..\\Domain\\Domain.csproj|c:\\users\\fa507xv\\desktop\\domain\\configurations\\countrconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A58CB9C-496A-4274-AEDC-22C3C97A75F8}|..\\Domain\\Domain.csproj|c:\\users\\fa507xv\\desktop\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F0F5E-8543-4CDE-9179-6B7503640D57}|..\\Repository\\Repository.csproj|c:\\users\\fa507xv\\desktop\\repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F817B13-620A-4CA6-84C3-7BAA3C33AAF1}|..\\Service\\Service.csproj|c:\\users\\fa507xv\\desktop\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|c:\\users\\fa507xv\\desktop\\apitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C5D4F36-1630-419F-AC56-C84FB143933E}|Apitask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A58CB9C-496A-4274-AEDC-22C3C97A75F8}|..\\Domain\\Domain.csproj|c:\\users\\fa507xv\\desktop\\domain\\configurations\\baseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Countiries\\CountryCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\Service\\DTOs\\Admin\\Countiries\\CountryCreateDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Countiries\\CountryCreateDto.cs",
+              "RelativeToolTip": "..\\Service\\DTOs\\Admin\\Countiries\\CountryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:25:11.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountrConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Domain\\Configurations\\CountrConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Configurations\\CountrConfigurations.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Domain\\Configurations\\CountrConfigurations.cs",
+              "RelativeToolTip": "..\\Domain\\Configurations\\CountrConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:03:15.223Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "RelativeToolTip": "..\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:06:38.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:36:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:35:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:35:04.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CityEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "RelativeDocumentMoniker": "..\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "RelativeToolTip": "..\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:33:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\CityService.cs",
+              "RelativeToolTip": "..\\Service\\Services\\CityService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:08:15.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:22:09.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:28:04.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "..\\Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\Service.csproj",
+              "RelativeToolTip": "..\\Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T07:14:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "..\\Service\\Services\\CountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:50:17.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "..\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:48:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "..\\Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:36:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Countiries\\CountryDto.cs",
+              "RelativeDocumentMoniker": "..\\Service\\DTOs\\Admin\\Countiries\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\DTOs\\Admin\\Countiries\\CountryDto.cs",
+              "RelativeToolTip": "..\\Service\\DTOs\\Admin\\Countiries\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:12:11.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Service\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:10:08.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Repository\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:57:24.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:56:59.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:31:46.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:29:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:21:00.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Domain\\Configurations\\BaseConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Configurations\\BaseConfigurations.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Domain\\Configurations\\BaseConfigurations.cs",
+              "RelativeToolTip": "..\\Domain\\Configurations\\BaseConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:09:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:58:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:51:55.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Apitask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:48:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Apitask\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Apitask\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T18:47:57.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
